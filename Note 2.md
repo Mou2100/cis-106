@@ -48,7 +48,7 @@ Virtualization is the act of creating a virtual (rather than actual) version of 
 * Click Create a virtual hard disk now.
 * Click Install Ubuntu.
 * Click Erase disk and install Ubuntu.
-## Set up ubuntu
+## Set up Ubuntu
 * Select where you are and your time zone.
 * Enable the on-screen keyboard.
 * Enter name, user name, create password.
