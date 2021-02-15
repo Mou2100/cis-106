@@ -1,6 +1,7 @@
 Note 2.md
 # What is Virtualization?
 Virtualization is the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
+
 ![Virtualization](Img1.PNG)
 
 ## Types of general virtualization
