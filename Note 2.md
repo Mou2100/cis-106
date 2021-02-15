@@ -16,7 +16,7 @@ Virtualization is the act of creating a virtual (rather than actual) version of 
         * Capable CPU
         * Enough RAM and Storage
 # Using Virtualbox (optional)
-## install Virtualbox
+## Install Virtualbox
 * Open the VirtualBox website and download. 
 * Open the VirtualBox and Navigate through the installation prompts. Do the following:
      * Click Next on the first three pages.
