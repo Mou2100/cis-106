@@ -26,7 +26,7 @@ Virtualization is the act of creating a virtual (rather than actual) version of 
      * Click install
      * Click finish.
 **Also download the virtual box extension pack.**
-![VirtualBox](Img2.PNG)
+![VirtualBox](Img2.png)
 
 ## Creating a Virtual Machine
 * When creating a virtual machine, install the operating system just like a regular computer. This means that the installation disc(s) for the operating system install on the virtual machine.  
