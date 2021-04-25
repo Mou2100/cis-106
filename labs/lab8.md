@@ -13,4 +13,3 @@
 # Question 4 | Use symbolic notation
 
 ![q1](../imgs/lab8.4.PNG)
-
